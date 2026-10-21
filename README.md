@@ -21,7 +21,7 @@ Data Analytics: Data Cleaning, Exploratory Data Analysis (EDA), Data Visualizati
 To leverage data analytics, visualization, and machine learning to uncover actionable insights, solve real-world business problems, and help organizations make informed, data-driven decisions.
 
 📫 Connect With Me
-LinkedIn: [Sanjaykrishnan](https://www.linkedin.com/in/sanjay-krish-1720skj)
+LinkedIn: https://www.linkedin.com/in/sanjay-krish-1720skj
 GitHub: Explore my repositories to see my projects and continuous learning journey.
 
 ⭐ I'm continuously learning, building projects, and expanding my skills in data analytics and business intelligence.
