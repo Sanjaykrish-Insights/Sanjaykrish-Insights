@@ -22,6 +22,7 @@ To leverage data analytics, visualization, and machine learning to uncover actio
 
 📫 Connect With Me
 LinkedIn: https://www.linkedin.com/in/sanjay-krish-1720skj
+
 GitHub: Explore my repositories to see my projects and continuous learning journey.
 
 ⭐ I'm continuously learning, building projects, and expanding my skills in data analytics and business intelligence.
