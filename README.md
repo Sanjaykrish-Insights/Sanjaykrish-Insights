@@ -1,6 +1,6 @@
 Hi, I'm Sanjaykrishnan 👋
 
-📊 Data Analyst | Power BI | Python | SQL | Business Intelligence | Machine Learning
+📊 Data Analyst | Power BI | Power Automate | Python | SQL | Business Intelligence | Machine Learning
 
 I'm a Microsoft Certified Data Analytics professional passionate about transforming raw data into meaningful insights. I build practical projects in data analytics, business intelligence, and machine learning to solve business problems and support data-driven decision-making.
 
